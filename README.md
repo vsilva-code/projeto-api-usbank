@@ -1,6 +1,6 @@
 # Descrição do Projeto
 
-Case US Bank Desenvolvimento de API para consumo de dados do Machine Learning para aumentar o UPSell de vendas de seguro de carro.
+Case US Bank Desenvolvimento de API para consumo de dados do Machine Learning para aumentar o Upselling de vendas de seguro de carro.
 
 ## **Status do Projeto**
 Finalizado
