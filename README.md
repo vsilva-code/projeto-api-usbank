@@ -95,5 +95,7 @@ api-usbank-flask.azurewebsites.net
 Carambola - Trio Sagitário
 
 Bianca Barros
+
 Fernando Ascari
+
 Valdinéia Silva
